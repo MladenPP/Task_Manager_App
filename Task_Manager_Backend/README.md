@@ -39,7 +39,7 @@ $ docker compose up -d
 # run migrations
 $ npm run migration:run
 # add test admin profile (admin@admin.com / adminadmin)
-$ npm run migration:run
+$ npm run seed
 ```
 
 ## Compile and run the project
